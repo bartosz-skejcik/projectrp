@@ -14,7 +14,7 @@ export default function Home() {
             <Head>
                 <title>ProjectRP - GTA V | XBOX</title>
             </Head>
-            <section className='flex flex-col items-center justify-center w-full'>
+            <section className='flex flex-col items-center justify-center w-full bg-primary'>
                 <NavBar
                     color='backdrop-blur'
                     list={[
