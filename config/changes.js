@@ -1,0 +1,50 @@
+export const changes = [
+    {
+        date: '2022-04-02',
+        title: 'Server Ad',
+        description: 'A server ad is now available on the homepage.',
+        link: 'https://discord.gg/ZmYusdMUj9',
+        linkText: 'Join the Discord',
+        linkTarget: '_blank',
+    },
+    {
+        date: '2022-04-01',
+        title: 'Changelog',
+        description: 'A changelog is now available on the homepage.',
+        link: 'https://discord.gg/ZmYusdMUj9',
+        linkText: 'Join the Discord',
+        linkTarget: '_blank',
+    },
+    {
+        date: '2022-04-01',
+        title: 'Changelog',
+        description: 'A changelog is now available on the homepage.',
+        link: 'https://discord.gg/ZmYusdMUj9',
+        linkText: 'Join the Discord',
+        linkTarget: '_blank',
+    },
+    {
+        date: '2022-04-01',
+        title: 'Changelog',
+        description: 'A changelog is now available on the homepage.',
+        link: 'https://discord.gg/ZmYusdMUj9',
+        linkText: 'Join the Discord',
+        linkTarget: '_blank',
+    },
+    {
+        date: '2022-04-01',
+        title: 'Changelog',
+        description: 'A changelog is now available on the homepage.',
+        link: 'https://discord.gg/ZmYusdMUj9',
+        linkText: 'Join the Discord',
+        linkTarget: '_blank',
+    },
+    {
+        date: '2022-04-01',
+        title: 'Changelog',
+        description: 'A changelog is now available on the homepage.',
+        link: 'https://discord.gg/ZmYusdMUj9',
+        linkText: 'Join the Discord',
+        linkTarget: '_blank',
+    }
+]

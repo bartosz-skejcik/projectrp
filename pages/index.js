@@ -29,9 +29,11 @@ export default function Home() {
                 <div>
                     <img src={'/bg.webp'} className="object-cover w-screen h-screen" />
                 </div>
-                <Donators />
-                <ServerAd />
-                <Changelog />
+                <section className='flex flex-col items-center justify-between w-full space-y-36 mb-24'>
+                    <Donators />
+                    <ServerAd />
+                    <Changelog />
+                </section>
                 <Footer />
             </section>
         </section>
